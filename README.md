@@ -1,10 +1,11 @@
 # Crystal-Kingdom-Game
 Given a starting point and the destination of a randomly generated crystal, the program finds the Minimum Spanning Tree and Shortest Path using Floyd, Prim, Kruskal and Dijkstra Algorithms.
 
-Project Overview
+Project Overview:
+
 This C++ project focuses on finding the Minimum Spanning Tree and Shortest Path in a graph. Given a starting point and the destination of a randomly generated crystal, the program employs various algorithms, including Floyd, Prim, Kruskal, and Dijkstra, to determine the optimal routes. The project utilizes fundamental data structures and algorithms to accomplish these tasks efficiently.
 
-Features
+Features:
 The project includes the following features:
 
 Minimum Spanning Tree (MST): The program finds the MST of a given graph using two popular algorithms:
@@ -19,7 +20,7 @@ Randomly Generated Graph: The project generates a random graph with crystals as 
 
 Score Calculation: The program utilizes an AVL tree to calculate scores based on various parameters. The AVL tree is a self-balancing binary search tree that efficiently maintains sorted data, allowing for quick score retrieval and updates.
 
-Data Structures Concepts
+Data Structures Concepts:
 The project demonstrates the implementation and usage of the following data structures concepts:
 
 Graph: A graph is represented using adjacency matrix or adjacency list, facilitating the storage and manipulation of vertex and edge information.
@@ -30,7 +31,7 @@ Disjoint Set: A disjoint set data structure is employed in Kruskal's Algorithm t
 
 AVL Tree: The AVL tree data structure is utilized for score calculation, providing efficient search, insertion, and deletion operations.
 
-Getting Started
+Getting Started:
 To run the project, follow these steps:
 
 Clone the repository: git clone <repository_url>
@@ -42,10 +43,10 @@ Run the program: ./main
 Follow the on-screen instructions to input the starting point and destination of the crystal.
 
 
-Contributing
+Contributing:
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-Acknowledgements
+Acknowledgements:
 I would like to thank the contributors and developers, Usman Nazeer and Bilal Saleem who have worked on the algorithms and data structures implemented in this project. Their efforts and contributions have made this project possible.
 
 
